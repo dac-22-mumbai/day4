@@ -1,0 +1,13 @@
+.myinput {
+  width: 90vw;
+  height: 40px;
+  margin-bottom: 8px;
+
+  padding-left: 8px;
+  font-size: 14px;
+}
+
+.mybutton {
+  height: 40px;
+  width: 92vw;
+}
